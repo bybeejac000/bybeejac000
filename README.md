@@ -7,7 +7,7 @@ I build at the intersection of **software engineering, data engineering, and mac
 
 ## About
 - Building APIs, data platforms, and automation tools
-- Experience with Python, SQL, C#, and **Go**
+- Experience with Python, SQL, Typescript, C#, and **Go**
 - Interested in backend systems, analytics engineering, and applied ML
 
 ## Featured Work
