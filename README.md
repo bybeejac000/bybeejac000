@@ -20,7 +20,7 @@ I build at the intersection of **software engineering, data engineering, and mac
 ## Tech
 **Languages:** Python, SQL, JavaScript, C#, **Go**  
 **Data:** Snowflake, dbt, Prefect, Redshift, SQL Server  
-**Tools:** Docker, GitHub, Bitbucket, Power BI  
+**Tools:** Docker, GitHub, Bitbucket
 **Concepts:** ETL, data modeling, microservices, CI/CD, machine learning
 
 ## Experience
