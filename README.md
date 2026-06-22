@@ -15,7 +15,7 @@ I build at the intersection of **software engineering, data engineering, and mac
 - **Data Platform** — Integrated PostgreSQL, MongoDB, and REST data into Snowflake with Python ETL, dbt, and Prefect
 - **Local AI Inference API** — Deployed a private Dockerized API for local LLM inference
 - **Optimization & ML** — Worked on clustering, query optimization, and algorithmic workflows across internships and projects
-- **Go Projects** — Built projects in Go alongside my work in Python and data systems
+- **Go Projects** — Backend for photos processing, facial recognition and security camera monitoring
 
 ## Tech
 **Languages:** Python, SQL, JavaScript, C#, **Go**  
