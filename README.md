@@ -8,7 +8,7 @@ I build at the intersection of **software engineering, data engineering, and mac
 ## About
 - Building APIs, data platforms, and automation tools
 - Experience with Python, SQL, Typescript, C#, and **Go**
-- Interested in backend systems, analytics engineering, and applied ML
+- Interested in backend systems, data engineering, and applied ML
 
 ## Featured Work
 - **Microservices Platform** — Built a 4-service FastAPI system with Docker, caching, and background processing
